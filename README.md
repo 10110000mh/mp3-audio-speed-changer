@@ -1,12 +1,11 @@
-# mM3-audio-speed-changer
+# MP3-audio-speed-changer
 Written in Python an easy-to-use GUI (implementing custom tkinter) application for changing the speed of audio files using ffmpeg
 # Features
 - multi threading
 - language support
-- choose output
+- change audio output codec
 - demo the change in speed
 - in order to change a lot of speed long press the + or - button
-- 
 # Errors
 Any errors please upload the output.txt in an issue once you close the program 
   
@@ -15,6 +14,9 @@ Any errors please upload the output.txt in an issue once you close the program
 - download all the files (unzip).
 - run requirements.txt. (you might need to add or remove a few libraries)
 ```
-'pip install -r requirements.txt'
+pip install -r requirements.txt
 ```
-- download ffmpeg.exe from the FFmpeg website and put it into the data folder 
+- download ffmpeg.exe from the FFmpeg website and put it into the data folder
+<img width="599" alt="image" src="https://github.com/10110000mh/mp3-audio-speed-changer/assets/153207589/bc51607c-1125-4561-adfe-49037a5679f2">
+
+
