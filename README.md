@@ -2,8 +2,8 @@
 written in python an easy to use GUI (implementing custom tkinter) application for changing the speed of audio files using ffmpeg
 
 To build:
-download all the files (unzip).
-run requirements.txt
+download all the files (unzip).\n
+run requirements.txt\n
 '''pip install -r requirements.txt
 
 
