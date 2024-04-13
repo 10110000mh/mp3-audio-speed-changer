@@ -6,7 +6,7 @@ Written in Python an easy-to-use GUI (implementing custom tkinter) application f
 - multi threading
 - language support
 - change audio output codec
-- demo the change in speed
+- demo the change in speed (dosen't work in onefile zip)
 - in order to change a lot of speed long press the + or - button
 # Errors:
 Any errors please upload the output.txt in an issue once you close the program 
