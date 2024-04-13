@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 - download ffmpeg.exe from the FFmpeg website and put it into the data folder
 <img width="599" alt="image" src="https://github.com/10110000mh/mp3-audio-speed-changer/assets/153207589/bc51607c-1125-4561-adfe-49037a5679f2">
-#TODO
+# TODO
 add option to open output folder
 set default language to pc default language
 
