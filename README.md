@@ -28,4 +28,6 @@ pip install -r requirements.txt
 - set default language to pc default language
 - add install to program files
 - add option to ring on finish
+- fix close demo on close application
+- fix demo in one file
 
