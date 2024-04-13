@@ -6,8 +6,8 @@ Written in Python an easy-to-use GUI (implementing custom tkinter) application f
 - multi threading
 - language support
 - change audio output codec
-- demo the change in speed (dosen't work in onefile zip)
-- in order to change a lot of speed long press the + or - button
+- demo the change in speed (doesn't work in onefile zip)
+- to change a lot of speed long press the + or - button
 # Errors:
 Any errors please upload the output.txt in an issue once you close the program 
 # Support me:
@@ -24,10 +24,10 @@ pip install -r requirements.txt
 
 
 # TODO
-- add option to open output folder
+- add an option to open the output folder
 - set default language to pc default language
 - add install to program files
-- add option to ring on finish
+- add an option to ring onFinish
 - fix close demo on close application
-- fix demo in one file
+- fix the demo in onefilezip
 
